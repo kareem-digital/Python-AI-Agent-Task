@@ -200,9 +200,3 @@ Log rotation: max **5 MB** per file, **3** backups kept.
 requests>=2.31.0
 python-dotenv>=1.0.0
 ```
-
----
-
-## License
-
-MIT — free to use and modify.
